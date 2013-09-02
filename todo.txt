@@ -9,6 +9,6 @@
 8. set "maxEdgeSize": 2
 
 outstanding:
-1. female spouses to have different colours?
+1. female spouses to have different colours? DONE
 2. investigate way or children coming off a line in the middle
 3. representin deceased - placing crosses through nodes
