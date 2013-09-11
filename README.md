@@ -83,3 +83,19 @@ Strings to translate :
 1. Zoom In
 1. Zoom Out
 1. Your browser cannot properly display this page. We recommend you use the latest Firefox or Chrome version
+
+#TODO
+1. autoset the node colours
+2. autoset the edge colours
+3. set Mian Ramzaneh colour to yellow
+4. apply forced atals two
+4. apply label adjust
+5. check all edges of weight 2 have label "spouse"
+6. export
+7. change line type to straight
+8. set "maxEdgeSize": 2
+
+outstanding:
+1. female spouses to have different colours? DONE
+2. investigate way or children coming off a line in the middle
+3. representin deceased - placing crosses through nodes
