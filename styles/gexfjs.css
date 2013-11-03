@@ -27,7 +27,7 @@ body {
 }
 
 #info {
-	float: right
+	float: right; text-align: left;
 }
 
 h1 {
