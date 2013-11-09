@@ -23,11 +23,11 @@ body {
 }
 
 #maintitle {
-    position: absolute; left: 0; top: 0; width: 250px; text-align: center;
+    position: absolute; right: 0; top: 0; width: 50px; text-align: center;
 }
 
 #info {
-	float: right; text-align: left;
+	float: left; text-align: left;
 }
 
 h1 {
