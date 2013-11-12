@@ -53,7 +53,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="921.5229" y="392.20108" z="0.0"></viz:position>
+        <viz:position x="922.18665" y="391.40512" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1671" label="Nusrat Mir">
@@ -105,7 +105,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="950.3877" y="387.8221" z="0.0"></viz:position>
+        <viz:position x="951.94824" y="386.27252" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1670" label="Sagira Mir">
@@ -157,7 +157,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="890.71466" y="394.15247" z="0.0"></viz:position>
+        <viz:position x="888.4058" y="396.44116" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1669" label="Rabia Mir">
@@ -210,7 +210,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="676.2607" y="305.102" z="0.0"></viz:position>
+        <viz:position x="678.3664" y="303.03305" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="923" label="Shakil Ahmed">
@@ -642,7 +642,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="568.3668" y="490.53476" z="0.0"></viz:position>
+        <viz:position x="568.0043" y="490.14023" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="932" label="Aazer  Sattar">
@@ -1740,7 +1740,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="615.3358" y="496.4495" z="0.0"></viz:position>
+        <viz:position x="615.79987" y="496.89" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="1603" label="Razia Lone">
@@ -1821,7 +1821,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="210.87512" y="61.128532" z="0.0"></viz:position>
+        <viz:position x="212.53772" y="59.490925" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="1576" label="Gulab Begum">
@@ -1830,7 +1830,7 @@
           <attvalue for="clustering_MCL (experimental)" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="171.00269" y="64.00282" z="0.0"></viz:position>
+        <viz:position x="169.67249" y="65.351166" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="45" label="Ghulam Din">
@@ -3072,7 +3072,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="639.7129" y="306.68335" z="0.0"></viz:position>
+        <viz:position x="637.5549" y="308.9068" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="4526" label="Adil Khalil">
@@ -3080,7 +3080,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="649.0605" y="276.55762" z="0.0"></viz:position>
+        <viz:position x="648.95013" y="276.65533" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="4527" label="Sobia Khalil">
@@ -3088,7 +3088,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="680.9644" y="271.05048" z="0.0"></viz:position>
+        <viz:position x="681.059" y="270.93835" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="4528" label="Nusrat Lone">
@@ -3144,7 +3144,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="140.47678" y="629.8839" z="0.0"></viz:position>
+        <viz:position x="141.24348" y="629.18866" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="4535" label="Mohammed Farooq">
@@ -3160,7 +3160,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="111.27771" y="635.73816" z="0.0"></viz:position>
+        <viz:position x="110.56777" y="636.5084" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="4537" label="Farah">
@@ -3200,7 +3200,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="135.0667" y="1005.6604" z="0.0"></viz:position>
+        <viz:position x="137.09904" y="1007.68134" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="4542" label="Suja Mir">
@@ -3232,7 +3232,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="99.51993" y="1003.56854" z="0.0"></viz:position>
+        <viz:position x="96.97393" y="1001.1086" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="4546" label="Naheeda Jabeer Mir">
@@ -4437,7 +4437,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="304.82104" y="1136.2029" z="0.0"></viz:position>
+        <viz:position x="304.48807" y="1135.881" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="527" label="Bismah Mir">
@@ -4453,7 +4453,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="238.42204" y="1067.6981" z="0.0"></viz:position>
+        <viz:position x="238.1896" y="1067.4647" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="529" label="Adnan Ahmed Mir">
@@ -4461,7 +4461,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="269.74933" y="1073.2019" z="0.0"></viz:position>
+        <viz:position x="269.98602" y="1073.4186" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="530" label="Faizan Ahmed Mir">
@@ -4533,7 +4533,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="88.927635" y="980.69434" z="0.0"></viz:position>
+        <viz:position x="88.89414" y="980.6093" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="540" label="Aksa Mir">
@@ -4557,7 +4557,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="332.5822" y="1142.1376" z="0.0"></viz:position>
+        <viz:position x="333.04633" y="1142.6012" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="543" label="Khadijah Butt">
@@ -4629,7 +4629,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="543.25745" y="852.1745" z="0.0"></viz:position>
+        <viz:position x="544.23267" y="852.3583" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="1099" label="Mohammed Fazal">
@@ -4717,7 +4717,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-200.16434" y="932.4567" z="0.0"></viz:position>
+        <viz:position x="-200.39058" y="932.2276" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1111" label="Sidrah Rani">
@@ -4725,7 +4725,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-169.33434" y="937.2875" z="0.0"></viz:position>
+        <viz:position x="-169.12953" y="937.50256" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1112" label="Farzand Begum">
@@ -4733,7 +4733,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="513.94086" y="845.7776" z="0.0"></viz:position>
+        <viz:position x="513.4619" y="845.30164" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1113" label="Tariq Lone">
@@ -4749,7 +4749,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="588.2639" y="847.22327" z="0.0"></viz:position>
+        <viz:position x="589.4392" y="845.95465" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="1115" label="Asif Lone">
@@ -4765,7 +4765,7 @@
           <attvalue for="Gender" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="551.7125" y="807.9425" z="0.0"></viz:position>
+        <viz:position x="552.32965" y="807.3533" z="0.0"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
       <node id="1117" label="Asim Lone">
@@ -4789,7 +4789,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="520.78253" y="813.7356" z="0.0"></viz:position>
+        <viz:position x="519.99335" y="814.4575" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1120" label="Shama Lone">
@@ -4805,7 +4805,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="487.8251" y="856.68396" z="0.0"></viz:position>
+        <viz:position x="486.11514" y="858.51294" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1122" label="Rani Lone">
