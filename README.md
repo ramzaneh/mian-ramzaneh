@@ -2,7 +2,7 @@
 
 #### Released under MIT License ###
 
-### Newest features ##
+### Newest features. ##
 
 URLs in attributes can now be replaced by hyperlinks using the replaceUrls option in config.js
 
