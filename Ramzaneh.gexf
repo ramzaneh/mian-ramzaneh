@@ -5025,7 +5025,7 @@
           <attvalue for="Gender" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-409.67746" y="459.01892" z="0.0"></viz:position>
+        <viz:position x="-446.82053" y="381.6376" z="0.0"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
       <node id="1151" label="Ibrahim Mir">
